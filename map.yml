@@ -1,0 +1,4 @@
+map_name: vietnam
+games:
+- {game_name: Vietnam, file_name: vietnam.xml}
+version: 0
